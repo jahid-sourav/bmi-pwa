@@ -1,0 +1,22 @@
+{
+    "name":"BMI PWA",
+    "short_name":"PWA",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#00ff84",
+    "theme_color":"#002333",
+    "scope": ".",
+    "description":"This is a PWA Project.",
+    "icons":[
+    {
+    "src":"images/logo.png",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"images/icon.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
