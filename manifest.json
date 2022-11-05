@@ -1,12 +1,12 @@
 {
-    "name":"BMI PWA",
-    "short_name":"PWA",
+    "name":"BMI",
+    "short_name":"BMI",
     "start_url":"index.html",
     "display":"standalone",
     "background_color":"#00ff84",
     "theme_color":"#002333",
     "scope": ".",
-    "description":"This is a PWA Project.",
+    "description":"This is a BMI Calculator.",
     "icons":[
     {
     "src":"images/logo.png",                     
